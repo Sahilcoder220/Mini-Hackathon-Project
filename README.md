@@ -6,11 +6,11 @@
 
 | Field | Details |
 |---|---|
-| Batch | 49 |
+| Batch | 42 |
 | Team number | 1 |
-| Member 1 | Shreyash Tyagi |
-| Member 2 | Dhairya |
-| Member 3 | Prince Raj |
+| Member 1 | Sahil Baruwa |
+| Member 2 | Aryan Rathore |
+| Member 3 | Manjeet Yadav |
 
 ## Problem Statement
 
